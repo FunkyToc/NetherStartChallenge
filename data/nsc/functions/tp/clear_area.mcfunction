@@ -1,0 +1,10 @@
+tp @e[type=minecraft:blaze,distance=..16] ~ -150 ~
+tp @e[type=minecraft:chicken,distance=..16] ~ -150 ~
+tp @e[type=minecraft:strider,distance=..16] ~ -150 ~
+tp @e[type=minecraft:ghast,distance=..256] ~ -150 ~
+tp @e[type=minecraft:hoglin,distance=..128] ~ -150 ~
+tp @e[type=minecraft:magma_cube,distance=..128] ~ -150 ~
+tp @e[type=minecraft:piglin,distance=..128] ~ -150 ~
+tp @e[type=minecraft:skeleton,distance=..128] ~ -150 ~
+tp @e[type=minecraft:zoglin,distance=..128] ~ -150 ~
+tp @e[type=minecraft:zombified_piglin,distance=..128] ~ -150 ~

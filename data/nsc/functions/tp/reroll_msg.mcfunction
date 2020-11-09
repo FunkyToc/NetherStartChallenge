@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"[NetherStartChallenge]","bold":true,"color":"gold"},{"text":" Horrible spawn location ? "},{"text":"[ reroll ]","color":"aqua","clickEvent":{"action":"run_command","value":"/trigger nsc_reroll"},"hoverEvent":{"action":"show_text","value":"click to clear your items and respawn in another location"}}]
