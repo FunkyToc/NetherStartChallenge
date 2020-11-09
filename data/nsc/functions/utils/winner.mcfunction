@@ -8,4 +8,4 @@ title @s title ["",{"text":"Challenge Completed","bold":true,"color":"gold"}]
 title @s actionbar ["",{"text":"You can now travel as you wish."}]
 tag @s add nsc_win
 tag @s add nsc_thanks
-schedule function nsc:thanks 10s
+schedule function nsc:utils/thanks 10s

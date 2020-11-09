@@ -12,7 +12,7 @@ clear @s
 give @s minecraft:respawn_anchor
 give @s minecraft:glowstone 4
 scoreboard players enable @s nsc_reroll
-function nsc:tp/reroll_msg
+function nsc:utils/reroll_msg
 
 # reset
 tag @s remove nsc_win

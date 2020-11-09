@@ -5,7 +5,9 @@ Start your journey in the nether. Find a way out to the overworld.
 - Minecraft 1.16+
 
 # Use
-Copy the "data/NetherStartChallenge/" namespace folder. Paste them in the same place of your datapack's folder. /reload.
+1. Download the package and unzip it
+2. Copy/paste the entire "NetherStartChallenge/" folder in your "saves/your-map/datapacks/" folder.
+3. Launch the game/server and play your map as you always do.
 
 # Author
 - Name : FunkyToc
