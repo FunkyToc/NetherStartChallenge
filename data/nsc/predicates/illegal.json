@@ -1,0 +1,10 @@
+[
+  {
+    "condition": "minecraft:reference",
+    "name": "nsc:not_won"
+  },
+  {
+    "condition": "minecraft:reference",
+    "name": "fktool:location/in_over"
+  }
+]
