@@ -11,8 +11,8 @@ Start your journey in the nether. Find a way out to the overworld.
 
 # Author
 - Name : FunkyToc
-- Website : http://naturize.fr
-- Contact : http://naturize.fr/contact
+- Website : https://funkytoc.fr
+- Contact : https://funkytoc.fr/contact
 
 # Thanks
 ...
